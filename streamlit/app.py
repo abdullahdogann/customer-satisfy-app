@@ -15,7 +15,7 @@ This app predicts the ** Customer Satisfaction **
 st.sidebar.header('User Input Features')
 
 st.sidebar.markdown("""
-[Example CSV input file](https://...)
+[Example CSV input file](https://github.com/abdullahdogann/customer-satisfy-app/blob/main/streamlit/ecommerce_data.csv)
 """)
 
 # Collects user input features into dataframe
